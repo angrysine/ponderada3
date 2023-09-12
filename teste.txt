@@ -1,0 +1,13 @@
+.
+├── app.py
+├── archive
+│   └── Mall_Customers.csv
+├── Dockerfile
+├── model.ipynb
+├── read.md
+├── requirements.txt
+├── teste_api.pkl
+├── teste_api.py
+└── teste.txt
+
+1 directory, 9 files
