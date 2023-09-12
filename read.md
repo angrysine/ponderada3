@@ -38,15 +38,31 @@ docker run -p 5000:5000 angrysine/ponderada3
 
 .
 ├── app.py
+
 ├── archive
+
 │   └── Mall_Customers.csv
+
 ├── Dockerfile
+
 ├── model.ipynb
+
 ├── read.md
+
 ├── requirements.txt
+
 ├── teste_api.pkl
+
 ├── teste_api.py
-└── teste.txt
+
+├──  teste.txt
+
+└── video.mp4
 
 ## Vídeo 
 
+O arquivo video.mp4 contem vídeo do funcionamento do projeto
+
+## Link imagem dockerhub
+
+<https://hub.docker.com/repository/docker/angrysine/ponderada3/general>
